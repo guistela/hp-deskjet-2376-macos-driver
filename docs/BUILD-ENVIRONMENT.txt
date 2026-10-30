@@ -1,0 +1,4 @@
+Validated host: MacBookPro16,1 (Intel x86_64), macOS 26.6.2 (25G83)
+HPLIP: 3.25.2, HP PGP signature verified
+libjpeg-turbo: Homebrew 3.2.0, static Intel libjpeg.a
+Sources and binaries inspected/built locally on 2026-10-30.
